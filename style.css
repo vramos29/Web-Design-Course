@@ -1,0 +1,61 @@
+h3 {
+    font-size: 35px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
+
+main {
+    background-color: aqua;
+}
+
+article {
+    background-color: beige;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 3;
+    border-color: black;   
+}
+
+.main-title {
+    text-align: center;
+    font-style: italic;
+    font-size: 40px
+}
+
+.topic {
+    color: blue;
+    font-style: italic;
+}
+
+#footer-main {
+    font-size: 15px;
+    text-align: left;
+    color: blue;
+    font-weight: bold;
+}
+
+#section-one {
+    background-color: gold;
+}
+
+#lists {
+    display: flex;
+    gap: 20px;
+}
+
+#reasons, #departments {
+    flex: 1;
+}
+
+#description {
+    text-align: center;
+    font-weight: bold;
+}
+
