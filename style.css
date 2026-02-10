@@ -59,3 +59,14 @@ img {
     font-weight: bold;
 }
 
+
+@media (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+  #reasons, #departments {
+    flex-direction: column;
+    align-items:center;
+  }
+}
+
