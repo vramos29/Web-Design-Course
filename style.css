@@ -51,5 +51,8 @@ img {
     font-weight: bold;
 }
 
-
+#main-title-centered {
+    text-align: center;
+    font-style: italic;
+}
 
