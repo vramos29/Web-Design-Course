@@ -45,14 +45,6 @@ img {
     background-color: gold;
 }
 
-#lists {
-    display: flex;
-    gap: 20px;
-}
-
-#reasons, #departments {
-    flex: 1;
-}
 
 #description {
     text-align: center;
@@ -60,13 +52,4 @@ img {
 }
 
 
-@media (max-width: 600px) {
-  body {
-    font-size: 15px;
-  }
-  #reasons, #departments {
-    flex-direction: column;
-    align-items:center;
-  }
-}
 
